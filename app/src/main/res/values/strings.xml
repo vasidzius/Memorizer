@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">Memorizer</string>
+  <string name="name">Name</string>
+  <string name="edit_head">Enter a head</string>
+  <string name="edit_description">Enter a description</string>
+  <string name="button_send">Send</string>
+</resources>
